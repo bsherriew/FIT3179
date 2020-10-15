@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Offences Recorded by Local Government Area in the Year Ending June 2020",
+  "width": 800,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/bsherriew/FIT3179/master/week9hw/VIC_LGA_POLYGON_SHP_GDA2020.topojson",
+    "format": {"type": "topojson", "feature": "VIC_LGA_POLYGON_SHP_GDA2020"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.ABB_NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/bsherriew/FIT3179/master/week9hw/Table1_LGA_Recorded_Offences_2020.csv"
+        },
+        "key": "LGA",
+        "fields": ["Rate per 100,000 population"]
+      }
+    }
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Rate per 100,000 population",
+      "type": "quantitative",
+      "scale": {"type": "linear", "domain": [0, 20000], "scheme": "bluepurple"},
+      "legend": {
+        "orient": "top-right",
+        "direction": "horizontal",
+        "gradientLength": 250
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.LGA_NAME",
+        "type": "nominal",
+        "title": "Local Government Area"
+      },
+      {"field": "Rate per 100,000 population", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
