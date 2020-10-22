@@ -1,0 +1,871 @@
+﻿Year,Year ending,Police Region,Local Government Area,LGA,Offence Count,"Rate per 100,000 population"
+2020,June,1 North West Metro, Banyule,BANYULE,9700,7328
+2020,June,1 North West Metro, Brimbank,BRIMBANK,20242,9630
+2020,June,1 North West Metro, Darebin,DAREBIN,15161,9144
+2020,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6100,6187
+2020,June,1 North West Metro, Hume,HUME,21529,8918
+2020,June,1 North West Metro, Maribyrnong,MARIBYRNONG,9388,9815
+2020,June,1 North West Metro, Melbourne,MELBOURNE,35727,19054
+2020,June,1 North West Metro, Melton,MELTON,13378,7778
+2020,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,8611,6521
+2020,June,1 North West Metro, Moreland,MORELAND,14355,7607
+2020,June,1 North West Metro, Nillumbik,NILLUMBIK,2266,3477
+2020,June,1 North West Metro, Whittlesea,WHITTLESEA,16556,6987
+2020,June,1 North West Metro, Wyndham,WYNDHAM,17542,6188
+2020,June,1 North West Metro, Yarra,YARRA,14147,13716
+2020,June,1 North West Metro,Total,TOTAL,204702,8850
+2020,June,2 Eastern, Alpine,ALPINE,595,4627
+2020,June,2 Eastern, Bass Coast,BASS COAST,2595,7000
+2020,June,2 Eastern, Baw Baw,BAW BAW,4801,8781
+2020,June,2 Eastern, Benalla,BENALLA,1222,8684
+2020,June,2 Eastern, Boroondara,BOROONDARA,8803,4773
+2020,June,2 Eastern, East Gippsland,EAST GIPPSLAND,4969,10399
+2020,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,8843,13224
+2020,June,2 Eastern, Indigo,INDIGO,563,3345
+2020,June,2 Eastern, Knox,KNOX,12115,7331
+2020,June,2 Eastern, Latrobe,LATROBE,13724,18079
+2020,June,2 Eastern, Manningham,MANNINGHAM,4729,3675
+2020,June,2 Eastern, Mansfield,MANSFIELD,460,4950
+2020,June,2 Eastern, Maroondah,MAROONDAH,8006,6689
+2020,June,2 Eastern, Mitchell,MITCHELL,4691,9788
+2020,June,2 Eastern, Moira,MOIRA,2452,8171
+2020,June,2 Eastern, Monash,MONASH,12078,5934
+2020,June,2 Eastern, Murrindindi,MURRINDINDI,842,5716
+2020,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1669,5541
+2020,June,2 Eastern, Strathbogie,STRATHBOGIE,567,5211
+2020,June,2 Eastern, Towong,TOWONG,226,3735
+2020,June,2 Eastern, Wangaratta,WANGARATTA,2508,8542
+2020,June,2 Eastern, Wellington,WELLINGTON,4599,10313
+2020,June,2 Eastern, Whitehorse,WHITEHORSE,9341,5193
+2020,June,2 Eastern, Wodonga,WODONGA,3854,8974
+2020,June,2 Eastern, Yarra Ranges,YARRA RANGES,8746,5452
+2020,June,2 Eastern,Total,TOTAL,122998,7094
+2020,June,3 Southern Metro, Bayside,BAYSIDE,5386,5001
+2020,June,3 Southern Metro, Cardinia,CARDINIA,7247,6185
+2020,June,3 Southern Metro, Casey,CASEY,23613,6466
+2020,June,3 Southern Metro, Frankston,FRANKSTON,15061,10477
+2020,June,3 Southern Metro, Glen Eira,GLEN EIRA,7956,5055
+2020,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,18940,11142
+2020,June,3 Southern Metro, Kingston,KINGSTON,12087,7238
+2020,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,11807,6980
+2020,June,3 Southern Metro, Port Phillip,PORT PHILLIP,13087,11117
+2020,June,3 Southern Metro, Stonnington,STONNINGTON,12162,10228
+2020,June,3 Southern Metro,Total,TOTAL,127346,7794
+2020,June,4 Western, Ararat,ARARAT,1390,11718
+2020,June,4 Western, Ballarat,BALLARAT,11132,9986
+2020,June,4 Western, Buloke,BULOKE,366,6016
+2020,June,4 Western, Campaspe,CAMPASPE,3878,10304
+2020,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1244,9405
+2020,June,4 Western, Colac-Otway,COLAC-OTWAY,1780,8244
+2020,June,4 Western, Corangamite,CORANGAMITE,714,4484
+2020,June,4 Western, Gannawarra,GANNAWARRA,775,7415
+2020,June,4 Western, Glenelg,GLENELG,1598,8140
+2020,June,4 Western, Golden Plains,GOLDEN PLAINS,632,2607
+2020,June,4 Western, Greater Bendigo,GREATER BENDIGO,11216,9348
+2020,June,4 Western, Greater Geelong,GREATER GEELONG,22844,8628
+2020,June,4 Western, Hepburn,HEPBURN,851,5297
+2020,June,4 Western, Hindmarsh,HINDMARSH,356,6436
+2020,June,4 Western, Horsham,HORSHAM,2279,11435
+2020,June,4 Western, Loddon,LODDON,490,6542
+2020,June,4 Western, Macedon Ranges,MACEDON RANGES,2451,4802
+2020,June,4 Western, Mildura,MILDURA,7504,13398
+2020,June,4 Western, Moorabool,MOORABOOL,2219,6168
+2020,June,4 Western, Mount Alexander,MOUNT ALEXANDER,1103,5538
+2020,June,4 Western, Moyne,MOYNE,654,3837
+2020,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1077,9508
+2020,June,4 Western, Pyrenees,PYRENEES,547,7314
+2020,June,4 Western, Queenscliffe,QUEENSCLIFFE,115,3894
+2020,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1188,7388
+2020,June,4 Western, Surf Coast,SURF COAST,1349,3935
+2020,June,4 Western, Swan Hill,SWAN HILL,2417,11741
+2020,June,4 Western, Warrnambool,WARRNAMBOOL,3263,9222
+2020,June,4 Western, West Wimmera,WEST WIMMERA,169,4447
+2020,June,4 Western, Yarriambiack,YARRIAMBIACK,554,8408
+2020,June,4 Western,Total,TOTAL,86155,8411
+2020,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,2860,
+2020,June,Justice Institutions and Immigration Facilities,Total,TOTAL,2860,
+2020,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,158,
+2020,June,Unincorporated Vic,Total,TOTAL,158,
+2019,June,1 North West Metro, Banyule,BANYULE,9166,6963
+2019,June,1 North West Metro, Brimbank,BRIMBANK,18732,8940
+2019,June,1 North West Metro, Darebin,DAREBIN,14560,8868
+2019,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6264,6408
+2019,June,1 North West Metro, Hume,HUME,21063,9022
+2019,June,1 North West Metro, Maribyrnong,MARIBYRNONG,8275,8855
+2019,June,1 North West Metro, Melbourne,MELBOURNE,34237,19132
+2019,June,1 North West Metro, Melton,MELTON,11265,6832
+2019,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,7896,6060
+2019,June,1 North West Metro, Moreland,MORELAND,14251,7671
+2019,June,1 North West Metro, Nillumbik,NILLUMBIK,2149,3301
+2019,June,1 North West Metro, Whittlesea,WHITTLESEA,16039,6966
+2019,June,1 North West Metro, Wyndham,WYNDHAM,15328,5667
+2019,June,1 North West Metro, Yarra,YARRA,13178,12984
+2019,June,1 North West Metro,Total,TOTAL,192403,8524
+2019,June,2 Eastern, Alpine,ALPINE,601,4690
+2019,June,2 Eastern, Bass Coast,BASS COAST,2448,6740
+2019,June,2 Eastern, Baw Baw,BAW BAW,4718,8836
+2019,June,2 Eastern, Benalla,BENALLA,1293,9211
+2019,June,2 Eastern, Boroondara,BOROONDARA,7266,3966
+2019,June,2 Eastern, East Gippsland,EAST GIPPSLAND,4560,9637
+2019,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,8810,13249
+2019,June,2 Eastern, Indigo,INDIGO,572,3425
+2019,June,2 Eastern, Knox,KNOX,11046,6713
+2019,June,2 Eastern, Latrobe,LATROBE,14267,18881
+2019,June,2 Eastern, Manningham,MANNINGHAM,4721,3701
+2019,June,2 Eastern, Mansfield,MANSFIELD,453,4937
+2019,June,2 Eastern, Maroondah,MAROONDAH,8247,6956
+2019,June,2 Eastern, Mitchell,MITCHELL,4523,9815
+2019,June,2 Eastern, Moira,MOIRA,2338,7813
+2019,June,2 Eastern, Monash,MONASH,10549,5200
+2019,June,2 Eastern, Murrindindi,MURRINDINDI,738,5065
+2019,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1583,5292
+2019,June,2 Eastern, Strathbogie,STRATHBOGIE,657,6094
+2019,June,2 Eastern, Towong,TOWONG,205,3394
+2019,June,2 Eastern, Wangaratta,WANGARATTA,2362,8093
+2019,June,2 Eastern, Wellington,WELLINGTON,4261,9601
+2019,June,2 Eastern, Whitehorse,WHITEHORSE,8576,4798
+2019,June,2 Eastern, Wodonga,WODONGA,3294,7827
+2019,June,2 Eastern, Yarra Ranges,YARRA RANGES,8489,5324
+2019,June,2 Eastern,Total,TOTAL,116577,6779
+2019,June,3 Southern Metro, Bayside,BAYSIDE,4843,4532
+2019,June,3 Southern Metro, Cardinia,CARDINIA,6412,5717
+2019,June,3 Southern Metro, Casey,CASEY,21505,6077
+2019,June,3 Southern Metro, Frankston,FRANKSTON,14381,10082
+2019,June,3 Southern Metro, Glen Eira,GLEN EIRA,6682,4269
+2019,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,18115,10770
+2019,June,3 Southern Metro, Kingston,KINGSTON,11622,7010
+2019,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,10642,6348
+2019,June,3 Southern Metro, Port Phillip,PORT PHILLIP,12342,10676
+2019,June,3 Southern Metro, Stonnington,STONNINGTON,10533,8944
+2019,June,3 Southern Metro,Total,TOTAL,117077,7285
+2019,June,4 Western, Ararat,ARARAT,1301,10984
+2019,June,4 Western, Ballarat,BALLARAT,10882,9937
+2019,June,4 Western, Buloke,BULOKE,253,4131
+2019,June,4 Western, Campaspe,CAMPASPE,4125,10964
+2019,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1317,9988
+2019,June,4 Western, Colac-Otway,COLAC-OTWAY,1593,7387
+2019,June,4 Western, Corangamite,CORANGAMITE,673,4201
+2019,June,4 Western, Gannawarra,GANNAWARRA,896,8556
+2019,June,4 Western, Glenelg,GLENELG,1433,7284
+2019,June,4 Western, Golden Plains,GOLDEN PLAINS,602,2538
+2019,June,4 Western, Greater Bendigo,GREATER BENDIGO,11250,9526
+2019,June,4 Western, Greater Geelong,GREATER GEELONG,20731,8006
+2019,June,4 Western, Hepburn,HEPBURN,796,4983
+2019,June,4 Western, Hindmarsh,HINDMARSH,360,6442
+2019,June,4 Western, Horsham,HORSHAM,2725,13679
+2019,June,4 Western, Loddon,LODDON,483,6437
+2019,June,4 Western, Macedon Ranges,MACEDON RANGES,2496,4969
+2019,June,4 Western, Mildura,MILDURA,7205,12918
+2019,June,4 Western, Moorabool,MOORABOOL,2222,6340
+2019,June,4 Western, Mount Alexander,MOUNT ALEXANDER,1103,5584
+2019,June,4 Western, Moyne,MOYNE,637,3757
+2019,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,996,8735
+2019,June,4 Western, Pyrenees,PYRENEES,638,8539
+2019,June,4 Western, Queenscliffe,QUEENSCLIFFE,136,4626
+2019,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1386,8609
+2019,June,4 Western, Surf Coast,SURF COAST,1176,3515
+2019,June,4 Western, Swan Hill,SWAN HILL,2609,12635
+2019,June,4 Western, Warrnambool,WARRNAMBOOL,3885,11043
+2019,June,4 Western, West Wimmera,WEST WIMMERA,179,4660
+2019,June,4 Western, Yarriambiack,YARRIAMBIACK,406,6115
+2019,June,4 Western,Total,TOTAL,84494,8356
+2019,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,2874,
+2019,June,Justice Institutions and Immigration Facilities,Total,TOTAL,2874,
+2019,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,149,
+2019,June,Unincorporated Vic,Total,TOTAL,149,
+2018,June,1 North West Metro, Banyule,BANYULE,9688,7438
+2018,June,1 North West Metro, Brimbank,BRIMBANK,18425,8827
+2018,June,1 North West Metro, Darebin,DAREBIN,14677,9079
+2018,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6028,6248
+2018,June,1 North West Metro, Hume,HUME,20217,9008
+2018,June,1 North West Metro, Maribyrnong,MARIBYRNONG,8297,9076
+2018,June,1 North West Metro, Melbourne,MELBOURNE,37497,22016
+2018,June,1 North West Metro, Melton,MELTON,10781,6879
+2018,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,8837,6909
+2018,June,1 North West Metro, Moreland,MORELAND,13678,7524
+2018,June,1 North West Metro, Nillumbik,NILLUMBIK,2195,3380
+2018,June,1 North West Metro, Whittlesea,WHITTLESEA,15406,6898
+2018,June,1 North West Metro, Wyndham,WYNDHAM,14037,5497
+2018,June,1 North West Metro, Yarra,YARRA,13788,13988
+2018,June,1 North West Metro,Total,TOTAL,193551,8830
+2018,June,2 Eastern, Alpine,ALPINE,500,3928
+2018,June,2 Eastern, Bass Coast,BASS COAST,2170,6143
+2018,June,2 Eastern, Baw Baw,BAW BAW,4078,7840
+2018,June,2 Eastern, Benalla,BENALLA,1308,9328
+2018,June,2 Eastern, Boroondara,BOROONDARA,6852,3778
+2018,June,2 Eastern, East Gippsland,EAST GIPPSLAND,4374,9343
+2018,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,8354,12656
+2018,June,2 Eastern, Indigo,INDIGO,411,2493
+2018,June,2 Eastern, Knox,KNOX,11353,6956
+2018,June,2 Eastern, Latrobe,LATROBE,13894,18474
+2018,June,2 Eastern, Manningham,MANNINGHAM,4708,3750
+2018,June,2 Eastern, Mansfield,MANSFIELD,585,6515
+2018,June,2 Eastern, Maroondah,MAROONDAH,7955,6770
+2018,June,2 Eastern, Mitchell,MITCHELL,4401,9935
+2018,June,2 Eastern, Moira,MOIRA,1979,6642
+2018,June,2 Eastern, Monash,MONASH,10729,5359
+2018,June,2 Eastern, Murrindindi,MURRINDINDI,731,5049
+2018,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1366,4619
+2018,June,2 Eastern, Strathbogie,STRATHBOGIE,592,5562
+2018,June,2 Eastern, Towong,TOWONG,207,3419
+2018,June,2 Eastern, Wangaratta,WANGARATTA,2356,8100
+2018,June,2 Eastern, Wellington,WELLINGTON,3698,8401
+2018,June,2 Eastern, Whitehorse,WHITEHORSE,8133,4614
+2018,June,2 Eastern, Wodonga,WODONGA,3316,8004
+2018,June,2 Eastern, Yarra Ranges,YARRA RANGES,7875,4979
+2018,June,2 Eastern,Total,TOTAL,111925,6587
+2018,June,3 Southern Metro, Bayside,BAYSIDE,4767,4508
+2018,June,3 Southern Metro, Cardinia,CARDINIA,5836,5448
+2018,June,3 Southern Metro, Casey,CASEY,20166,5923
+2018,June,3 Southern Metro, Frankston,FRANKSTON,14786,10424
+2018,June,3 Southern Metro, Glen Eira,GLEN EIRA,6548,4254
+2018,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,18357,11049
+2018,June,3 Southern Metro, Kingston,KINGSTON,10527,6440
+2018,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,10880,6561
+2018,June,3 Southern Metro, Port Phillip,PORT PHILLIP,12870,11363
+2018,June,3 Southern Metro, Stonnington,STONNINGTON,10551,9074
+2018,June,3 Southern Metro,Total,TOTAL,115288,7324
+2018,June,4 Western, Ararat,ARARAT,1287,10911
+2018,June,4 Western, Ballarat,BALLARAT,11422,10643
+2018,June,4 Western, Buloke,BULOKE,247,3995
+2018,June,4 Western, Campaspe,CAMPASPE,3571,9500
+2018,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1603,12137
+2018,June,4 Western, Colac-Otway,COLAC-OTWAY,1586,7376
+2018,June,4 Western, Corangamite,CORANGAMITE,849,5261
+2018,June,4 Western, Gannawarra,GANNAWARRA,568,5386
+2018,June,4 Western, Glenelg,GLENELG,1544,7852
+2018,June,4 Western, Golden Plains,GOLDEN PLAINS,681,2946
+2018,June,4 Western, Greater Bendigo,GREATER BENDIGO,9735,8389
+2018,June,4 Western, Greater Geelong,GREATER GEELONG,21602,8564
+2018,June,4 Western, Hepburn,HEPBURN,842,5325
+2018,June,4 Western, Hindmarsh,HINDMARSH,334,5918
+2018,June,4 Western, Horsham,HORSHAM,2482,12489
+2018,June,4 Western, Loddon,LODDON,412,5484
+2018,June,4 Western, Macedon Ranges,MACEDON RANGES,2097,4246
+2018,June,4 Western, Mildura,MILDURA,6642,11964
+2018,June,4 Western, Moorabool,MOORABOOL,2296,6722
+2018,June,4 Western, Mount Alexander,MOUNT ALEXANDER,869,4453
+2018,June,4 Western, Moyne,MOYNE,537,3180
+2018,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1021,8933
+2018,June,4 Western, Pyrenees,PYRENEES,420,5712
+2018,June,4 Western, Queenscliffe,QUEENSCLIFFE,294,9859
+2018,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1508,9347
+2018,June,4 Western, Surf Coast,SURF COAST,1130,3504
+2018,June,4 Western, Swan Hill,SWAN HILL,2518,12129
+2018,June,4 Western, Warrnambool,WARRNAMBOOL,3659,10495
+2018,June,4 Western, West Wimmera,WEST WIMMERA,159,4117
+2018,June,4 Western, Yarriambiack,YARRIAMBIACK,523,7855
+2018,June,4 Western,Total,TOTAL,82438,8277
+2018,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,2543,
+2018,June,Justice Institutions and Immigration Facilities,Total,TOTAL,2543,
+2018,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,126,
+2018,June,Unincorporated Vic,Total,TOTAL,126,
+2017,June,1 North West Metro, Banyule,BANYULE,9658,7480
+2017,June,1 North West Metro, Brimbank,BRIMBANK,17863,8630
+2017,June,1 North West Metro, Darebin,DAREBIN,16355,10302
+2017,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6322,6650
+2017,June,1 North West Metro, Hume,HUME,21916,10182
+2017,June,1 North West Metro, Maribyrnong,MARIBYRNONG,8686,9720
+2017,June,1 North West Metro, Melbourne,MELBOURNE,36935,23209
+2017,June,1 North West Metro, Melton,MELTON,11147,7500
+2017,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,9431,7520
+2017,June,1 North West Metro, Moreland,MORELAND,13916,7863
+2017,June,1 North West Metro, Nillumbik,NILLUMBIK,2744,4246
+2017,June,1 North West Metro, Whittlesea,WHITTLESEA,16120,7474
+2017,June,1 North West Metro, Wyndham,WYNDHAM,14731,6111
+2017,June,1 North West Metro, Yarra,YARRA,13430,13990
+2017,June,1 North West Metro,Total,TOTAL,199254,9390
+2017,June,2 Eastern, Alpine,ALPINE,379,2999
+2017,June,2 Eastern, Bass Coast,BASS COAST,2647,7698
+2017,June,2 Eastern, Baw Baw,BAW BAW,3871,7639
+2017,June,2 Eastern, Benalla,BENALLA,1311,9382
+2017,June,2 Eastern, Boroondara,BOROONDARA,8351,4648
+2017,June,2 Eastern, East Gippsland,EAST GIPPSLAND,3889,8429
+2017,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,8324,12698
+2017,June,2 Eastern, Indigo,INDIGO,457,2798
+2017,June,2 Eastern, Knox,KNOX,12107,7481
+2017,June,2 Eastern, Latrobe,LATROBE,13928,18593
+2017,June,2 Eastern, Manningham,MANNINGHAM,5194,4180
+2017,June,2 Eastern, Mansfield,MANSFIELD,637,7242
+2017,June,2 Eastern, Maroondah,MAROONDAH,8925,7673
+2017,June,2 Eastern, Mitchell,MITCHELL,4582,10680
+2017,June,2 Eastern, Moira,MOIRA,1979,6674
+2017,June,2 Eastern, Monash,MONASH,11720,5952
+2017,June,2 Eastern, Murrindindi,MURRINDINDI,671,4714
+2017,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1587,5413
+2017,June,2 Eastern, Strathbogie,STRATHBOGIE,632,6028
+2017,June,2 Eastern, Towong,TOWONG,207,3428
+2017,June,2 Eastern, Wangaratta,WANGARATTA,2473,8571
+2017,June,2 Eastern, Wellington,WELLINGTON,4386,10013
+2017,June,2 Eastern, Whitehorse,WHITEHORSE,8544,4931
+2017,June,2 Eastern, Wodonga,WODONGA,3268,8007
+2017,June,2 Eastern, Yarra Ranges,YARRA RANGES,8540,5444
+2017,June,2 Eastern,Total,TOTAL,118609,7066
+2017,June,3 Southern Metro, Bayside,BAYSIDE,5160,4948
+2017,June,3 Southern Metro, Cardinia,CARDINIA,6606,6451
+2017,June,3 Southern Metro, Casey,CASEY,23499,7191
+2017,June,3 Southern Metro, Frankston,FRANKSTON,15822,11244
+2017,June,3 Southern Metro, Glen Eira,GLEN EIRA,7532,4973
+2017,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,19900,12170
+2017,June,3 Southern Metro, Kingston,KINGSTON,11281,7005
+2017,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,11639,7104
+2017,June,3 Southern Metro, Port Phillip,PORT PHILLIP,13620,12308
+2017,June,3 Southern Metro, Stonnington,STONNINGTON,10833,9522
+2017,June,3 Southern Metro,Total,TOTAL,125892,8183
+2017,June,4 Western, Ararat,ARARAT,1304,11092
+2017,June,4 Western, Ballarat,BALLARAT,11970,11354
+2017,June,4 Western, Buloke,BULOKE,177,2853
+2017,June,4 Western, Campaspe,CAMPASPE,3540,9416
+2017,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1228,9340
+2017,June,4 Western, Colac-Otway,COLAC-OTWAY,2096,9781
+2017,June,4 Western, Corangamite,CORANGAMITE,1082,6675
+2017,June,4 Western, Gannawarra,GANNAWARRA,664,6283
+2017,June,4 Western, Glenelg,GLENELG,1665,8455
+2017,June,4 Western, Golden Plains,GOLDEN PLAINS,752,3332
+2017,June,4 Western, Greater Bendigo,GREATER BENDIGO,10556,9252
+2017,June,4 Western, Greater Geelong,GREATER GEELONG,22671,9226
+2017,June,4 Western, Hepburn,HEPBURN,849,5432
+2017,June,4 Western, Hindmarsh,HINDMARSH,411,7188
+2017,June,4 Western, Horsham,HORSHAM,2578,12965
+2017,June,4 Western, Loddon,LODDON,411,5475
+2017,June,4 Western, Macedon Ranges,MACEDON RANGES,2222,4589
+2017,June,4 Western, Mildura,MILDURA,6763,12265
+2017,June,4 Western, Moorabool,MOORABOOL,2513,7515
+2017,June,4 Western, Mount Alexander,MOUNT ALEXANDER,1117,5788
+2017,June,4 Western, Moyne,MOYNE,705,4198
+2017,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1252,10871
+2017,June,4 Western, Pyrenees,PYRENEES,543,7380
+2017,June,4 Western, Queenscliffe,QUEENSCLIFFE,151,5103
+2017,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1330,8249
+2017,June,4 Western, Surf Coast,SURF COAST,1316,4198
+2017,June,4 Western, Swan Hill,SWAN HILL,2288,10975
+2017,June,4 Western, Warrnambool,WARRNAMBOOL,3458,10003
+2017,June,4 Western, West Wimmera,WEST WIMMERA,198,5085
+2017,June,4 Western, Yarriambiack,YARRIAMBIACK,454,6792
+2017,June,4 Western,Total,TOTAL,86264,8789
+2017,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,2055,
+2017,June,Justice Institutions and Immigration Facilities,Total,TOTAL,2055,
+2017,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,138,
+2017,June,Unincorporated Vic,Total,TOTAL,138,
+2016,June,1 North West Metro, Banyule,BANYULE,10026,7867
+2016,June,1 North West Metro, Brimbank,BRIMBANK,19606,9602
+2016,June,1 North West Metro, Darebin,DAREBIN,16582,10689
+2016,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6998,7489
+2016,June,1 North West Metro, Hume,HUME,22609,10920
+2016,June,1 North West Metro, Maribyrnong,MARIBYRNONG,9304,10701
+2016,June,1 North West Metro, Melbourne,MELBOURNE,36161,24752
+2016,June,1 North West Metro, Melton,MELTON,12179,8612
+2016,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,9286,7558
+2016,June,1 North West Metro, Moreland,MORELAND,14743,8557
+2016,June,1 North West Metro, Nillumbik,NILLUMBIK,3463,5396
+2016,June,1 North West Metro, Whittlesea,WHITTLESEA,15500,7486
+2016,June,1 North West Metro, Wyndham,WYNDHAM,15713,6922
+2016,June,1 North West Metro, Yarra,YARRA,13836,14894
+2016,June,1 North West Metro,Total,TOTAL,206006,10059
+2016,June,2 Eastern, Alpine,ALPINE,425,3379
+2016,June,2 Eastern, Bass Coast,BASS COAST,3032,9060
+2016,June,2 Eastern, Baw Baw,BAW BAW,4135,8388
+2016,June,2 Eastern, Benalla,BENALLA,1519,10864
+2016,June,2 Eastern, Boroondara,BOROONDARA,8064,4549
+2016,June,2 Eastern, East Gippsland,EAST GIPPSLAND,4305,9441
+2016,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,8044,12362
+2016,June,2 Eastern, Indigo,INDIGO,464,2870
+2016,June,2 Eastern, Knox,KNOX,10669,6653
+2016,June,2 Eastern, Latrobe,LATROBE,14090,18882
+2016,June,2 Eastern, Manningham,MANNINGHAM,4492,3665
+2016,June,2 Eastern, Mansfield,MANSFIELD,563,6491
+2016,June,2 Eastern, Maroondah,MAROONDAH,8567,7463
+2016,June,2 Eastern, Mitchell,MITCHELL,4383,10487
+2016,June,2 Eastern, Moira,MOIRA,1725,5850
+2016,June,2 Eastern, Monash,MONASH,12230,6349
+2016,June,2 Eastern, Murrindindi,MURRINDINDI,735,5231
+2016,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1367,4694
+2016,June,2 Eastern, Strathbogie,STRATHBOGIE,586,5658
+2016,June,2 Eastern, Towong,TOWONG,257,4251
+2016,June,2 Eastern, Wangaratta,WANGARATTA,2553,8929
+2016,June,2 Eastern, Wellington,WELLINGTON,4636,10650
+2016,June,2 Eastern, Whitehorse,WHITEHORSE,8217,4844
+2016,June,2 Eastern, Wodonga,WODONGA,3460,8628
+2016,June,2 Eastern, Yarra Ranges,YARRA RANGES,8836,5692
+2016,June,2 Eastern,Total,TOTAL,117354,7091
+2016,June,3 Southern Metro, Bayside,BAYSIDE,5076,4932
+2016,June,3 Southern Metro, Cardinia,CARDINIA,7662,7853
+2016,June,3 Southern Metro, Casey,CASEY,22774,7281
+2016,June,3 Southern Metro, Frankston,FRANKSTON,16070,11520
+2016,June,3 Southern Metro, Glen Eira,GLEN EIRA,6863,4619
+2016,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,20640,12882
+2016,June,3 Southern Metro, Kingston,KINGSTON,11299,7109
+2016,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,11633,7202
+2016,June,3 Southern Metro, Port Phillip,PORT PHILLIP,12881,11858
+2016,June,3 Southern Metro, Stonnington,STONNINGTON,10732,9668
+2016,June,3 Southern Metro,Total,TOTAL,125630,8366
+2016,June,4 Western, Ararat,ARARAT,1223,10413
+2016,June,4 Western, Ballarat,BALLARAT,11616,11223
+2016,June,4 Western, Buloke,BULOKE,253,4026
+2016,June,4 Western, Campaspe,CAMPASPE,3557,9461
+2016,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1579,12065
+2016,June,4 Western, Colac-Otway,COLAC-OTWAY,1862,8716
+2016,June,4 Western, Corangamite,CORANGAMITE,811,4993
+2016,June,4 Western, Gannawarra,GANNAWARRA,559,5290
+2016,June,4 Western, Glenelg,GLENELG,1592,8057
+2016,June,4 Western, Golden Plains,GOLDEN PLAINS,832,3779
+2016,June,4 Western, Greater Bendigo,GREATER BENDIGO,9590,8542
+2016,June,4 Western, Greater Geelong,GREATER GEELONG,23205,9688
+2016,June,4 Western, Hepburn,HEPBURN,847,5456
+2016,June,4 Western, Hindmarsh,HINDMARSH,300,5187
+2016,June,4 Western, Horsham,HORSHAM,2893,14549
+2016,June,4 Western, Loddon,LODDON,496,6563
+2016,June,4 Western, Macedon Ranges,MACEDON RANGES,2391,5036
+2016,June,4 Western, Mildura,MILDURA,6310,11545
+2016,June,4 Western, Moorabool,MOORABOOL,2321,7104
+2016,June,4 Western, Mount Alexander,MOUNT ALEXANDER,1224,6409
+2016,June,4 Western, Moyne,MOYNE,586,3501
+2016,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1173,10138
+2016,June,4 Western, Pyrenees,PYRENEES,579,7914
+2016,June,4 Western, Queenscliffe,QUEENSCLIFFE,154,5258
+2016,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1222,7579
+2016,June,4 Western, Surf Coast,SURF COAST,1543,5065
+2016,June,4 Western, Swan Hill,SWAN HILL,2262,10825
+2016,June,4 Western, Warrnambool,WARRNAMBOOL,3029,8846
+2016,June,4 Western, West Wimmera,WEST WIMMERA,202,5131
+2016,June,4 Western, Yarriambiack,YARRIAMBIACK,500,7415
+2016,June,4 Western,Total,TOTAL,84711,8755
+2016,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,1635,
+2016,June,Justice Institutions and Immigration Facilities,Total,TOTAL,1635,
+2016,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,128,
+2016,June,Unincorporated Vic,Total,TOTAL,128,
+2015,June,1 North West Metro, Banyule,BANYULE,8952,7100
+2015,June,1 North West Metro, Brimbank,BRIMBANK,18153,9038
+2015,June,1 North West Metro, Darebin,DAREBIN,14397,9473
+2015,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6774,7389
+2015,June,1 North West Metro, Hume,HUME,18937,9556
+2015,June,1 North West Metro, Maribyrnong,MARIBYRNONG,7908,9327
+2015,June,1 North West Metro, Melbourne,MELBOURNE,34527,25226
+2015,June,1 North West Metro, Melton,MELTON,10151,7524
+2015,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,9034,7514
+2015,June,1 North West Metro, Moreland,MORELAND,12926,7700
+2015,June,1 North West Metro, Nillumbik,NILLUMBIK,2240,3518
+2015,June,1 North West Metro, Whittlesea,WHITTLESEA,12991,6600
+2015,June,1 North West Metro, Wyndham,WYNDHAM,12946,6055
+2015,June,1 North West Metro, Yarra,YARRA,12669,14089
+2015,June,1 North West Metro,Total,TOTAL,182605,9233
+2015,June,2 Eastern, Alpine,ALPINE,444,3572
+2015,June,2 Eastern, Bass Coast,BASS COAST,2602,7987
+2015,June,2 Eastern, Baw Baw,BAW BAW,3584,7492
+2015,June,2 Eastern, Benalla,BENALLA,1083,7778
+2015,June,2 Eastern, Boroondara,BOROONDARA,6583,3767
+2015,June,2 Eastern, East Gippsland,EAST GIPPSLAND,4123,9189
+2015,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,7360,11413
+2015,June,2 Eastern, Indigo,INDIGO,475,2983
+2015,June,2 Eastern, Knox,KNOX,9753,6146
+2015,June,2 Eastern, Latrobe,LATROBE,12909,17382
+2015,June,2 Eastern, Manningham,MANNINGHAM,4325,3581
+2015,June,2 Eastern, Mansfield,MANSFIELD,435,5100
+2015,June,2 Eastern, Maroondah,MAROONDAH,7810,6910
+2015,June,2 Eastern, Mitchell,MITCHELL,3684,9150
+2015,June,2 Eastern, Moira,MOIRA,1480,5053
+2015,June,2 Eastern, Monash,MONASH,9411,4975
+2015,June,2 Eastern, Murrindindi,MURRINDINDI,641,4629
+2015,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1231,4277
+2015,June,2 Eastern, Strathbogie,STRATHBOGIE,494,4855
+2015,June,2 Eastern, Towong,TOWONG,170,2831
+2015,June,2 Eastern, Wangaratta,WANGARATTA,2450,8706
+2015,June,2 Eastern, Wellington,WELLINGTON,4194,9715
+2015,June,2 Eastern, Whitehorse,WHITEHORSE,7501,4500
+2015,June,2 Eastern, Wodonga,WODONGA,3278,8357
+2015,June,2 Eastern, Yarra Ranges,YARRA RANGES,7071,4610
+2015,June,2 Eastern,Total,TOTAL,103091,6324
+2015,June,3 Southern Metro, Bayside,BAYSIDE,4286,4232
+2015,June,3 Southern Metro, Cardinia,CARDINIA,6338,6867
+2015,June,3 Southern Metro, Casey,CASEY,19449,6493
+2015,June,3 Southern Metro, Frankston,FRANKSTON,14514,10533
+2015,June,3 Southern Metro, Glen Eira,GLEN EIRA,5787,3966
+2015,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,17316,11096
+2015,June,3 Southern Metro, Kingston,KINGSTON,10237,6552
+2015,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,10535,6633
+2015,June,3 Southern Metro, Port Phillip,PORT PHILLIP,11984,11265
+2015,June,3 Southern Metro, Stonnington,STONNINGTON,9797,9069
+2015,June,3 Southern Metro,Total,TOTAL,110243,7539
+2015,June,4 Western, Ararat,ARARAT,1138,9773
+2015,June,4 Western, Ballarat,BALLARAT,11021,10860
+2015,June,4 Western, Buloke,BULOKE,230,3647
+2015,June,4 Western, Campaspe,CAMPASPE,3006,8031
+2015,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1078,8324
+2015,June,4 Western, Colac-Otway,COLAC-OTWAY,1351,6364
+2015,June,4 Western, Corangamite,CORANGAMITE,637,3914
+2015,June,4 Western, Gannawarra,GANNAWARRA,531,5040
+2015,June,4 Western, Glenelg,GLENELG,1799,9122
+2015,June,4 Western, Golden Plains,GOLDEN PLAINS,656,3067
+2015,June,4 Western, Greater Bendigo,GREATER BENDIGO,8485,7720
+2015,June,4 Western, Greater Geelong,GREATER GEELONG,19158,8225
+2015,June,4 Western, Hepburn,HEPBURN,743,4845
+2015,June,4 Western, Hindmarsh,HINDMARSH,197,3392
+2015,June,4 Western, Horsham,HORSHAM,2829,14294
+2015,June,4 Western, Loddon,LODDON,337,4475
+2015,June,4 Western, Macedon Ranges,MACEDON RANGES,2146,4628
+2015,June,4 Western, Mildura,MILDURA,5911,10915
+2015,June,4 Western, Moorabool,MOORABOOL,2041,6429
+2015,June,4 Western, Mount Alexander,MOUNT ALEXANDER,955,5081
+2015,June,4 Western, Moyne,MOYNE,617,3719
+2015,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1099,9438
+2015,June,4 Western, Pyrenees,PYRENEES,500,6965
+2015,June,4 Western, Queenscliffe,QUEENSCLIFFE,150,5114
+2015,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1038,6422
+2015,June,4 Western, Surf Coast,SURF COAST,1376,4645
+2015,June,4 Western, Swan Hill,SWAN HILL,2223,10640
+2015,June,4 Western, Warrnambool,WARRNAMBOOL,2978,8758
+2015,June,4 Western, West Wimmera,WEST WIMMERA,155,3900
+2015,June,4 Western, Yarriambiack,YARRIAMBIACK,377,5523
+2015,June,4 Western,Total,TOTAL,74762,7860
+2015,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,1041,
+2015,June,Justice Institutions and Immigration Facilities,Total,TOTAL,1041,
+2015,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,127,
+2015,June,Unincorporated Vic,Total,TOTAL,127,
+2014,June,1 North West Metro, Banyule,BANYULE,9880,7897
+2014,June,1 North West Metro, Brimbank,BRIMBANK,18171,9156
+2014,June,1 North West Metro, Darebin,DAREBIN,13672,9144
+2014,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6903,7635
+2014,June,1 North West Metro, Hume,HUME,16619,8688
+2014,June,1 North West Metro, Maribyrnong,MARIBYRNONG,8684,10531
+2014,June,1 North West Metro, Melbourne,MELBOURNE,31711,24779
+2014,June,1 North West Metro, Melton,MELTON,9489,7338
+2014,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,8323,7068
+2014,June,1 North West Metro, Moreland,MORELAND,12384,7547
+2014,June,1 North West Metro, Nillumbik,NILLUMBIK,2116,3336
+2014,June,1 North West Metro, Whittlesea,WHITTLESEA,14051,7478
+2014,June,1 North West Metro, Wyndham,WYNDHAM,13105,6503
+2014,June,1 North West Metro, Yarra,YARRA,12296,14096
+2014,June,1 North West Metro,Total,TOTAL,177404,9257
+2014,June,2 Eastern, Alpine,ALPINE,548,4435
+2014,June,2 Eastern, Bass Coast,BASS COAST,2749,8613
+2014,June,2 Eastern, Baw Baw,BAW BAW,3469,7437
+2014,June,2 Eastern, Benalla,BENALLA,1147,8253
+2014,June,2 Eastern, Boroondara,BOROONDARA,7338,4250
+2014,June,2 Eastern, East Gippsland,EAST GIPPSLAND,3684,8320
+2014,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,6862,10735
+2014,June,2 Eastern, Indigo,INDIGO,488,3102
+2014,June,2 Eastern, Knox,KNOX,9687,6153
+2014,June,2 Eastern, Latrobe,LATROBE,10604,14304
+2014,June,2 Eastern, Manningham,MANNINGHAM,4193,3511
+2014,June,2 Eastern, Mansfield,MANSFIELD,469,5587
+2014,June,2 Eastern, Maroondah,MAROONDAH,7338,6586
+2014,June,2 Eastern, Mitchell,MITCHELL,3239,8287
+2014,June,2 Eastern, Moira,MOIRA,1441,4952
+2014,June,2 Eastern, Monash,MONASH,8826,4741
+2014,June,2 Eastern, Murrindindi,MURRINDINDI,690,5041
+2014,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1143,4008
+2014,June,2 Eastern, Strathbogie,STRATHBOGIE,514,5131
+2014,June,2 Eastern, Towong,TOWONG,263,4397
+2014,June,2 Eastern, Wangaratta,WANGARATTA,2439,8754
+2014,June,2 Eastern, Wellington,WELLINGTON,4091,9525
+2014,June,2 Eastern, Whitehorse,WHITEHORSE,7376,4489
+2014,June,2 Eastern, Wodonga,WODONGA,3030,7897
+2014,June,2 Eastern, Yarra Ranges,YARRA RANGES,7104,4675
+2014,June,2 Eastern,Total,TOTAL,98732,6132
+2014,June,3 Southern Metro, Bayside,BAYSIDE,4259,4268
+2014,June,3 Southern Metro, Cardinia,CARDINIA,5870,6665
+2014,June,3 Southern Metro, Casey,CASEY,16147,5608
+2014,June,3 Southern Metro, Frankston,FRANKSTON,14885,10930
+2014,June,3 Southern Metro, Glen Eira,GLEN EIRA,5638,3924
+2014,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,15851,10419
+2014,June,3 Southern Metro, Kingston,KINGSTON,9578,6211
+2014,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,10109,6459
+2014,June,3 Southern Metro, Port Phillip,PORT PHILLIP,11323,10840
+2014,June,3 Southern Metro, Stonnington,STONNINGTON,9625,9089
+2014,June,3 Southern Metro,Total,TOTAL,103285,7228
+2014,June,4 Western, Ararat,ARARAT,968,8374
+2014,June,4 Western, Ballarat,BALLARAT,9797,9805
+2014,June,4 Western, Buloke,BULOKE,195,3078
+2014,June,4 Western, Campaspe,CAMPASPE,2731,7314
+2014,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1026,7963
+2014,June,4 Western, Colac-Otway,COLAC-OTWAY,1616,7648
+2014,June,4 Western, Corangamite,CORANGAMITE,639,3911
+2014,June,4 Western, Gannawarra,GANNAWARRA,570,5411
+2014,June,4 Western, Glenelg,GLENELG,1578,7988
+2014,June,4 Western, Golden Plains,GOLDEN PLAINS,503,2407
+2014,June,4 Western, Greater Bendigo,GREATER BENDIGO,8325,7712
+2014,June,4 Western, Greater Geelong,GREATER GEELONG,17106,7511
+2014,June,4 Western, Hepburn,HEPBURN,603,3971
+2014,June,4 Western, Hindmarsh,HINDMARSH,218,3730
+2014,June,4 Western, Horsham,HORSHAM,1966,9955
+2014,June,4 Western, Loddon,LODDON,551,7334
+2014,June,4 Western, Macedon Ranges,MACEDON RANGES,1928,4240
+2014,June,4 Western, Mildura,MILDURA,5768,10734
+2014,June,4 Western, Moorabool,MOORABOOL,1793,5772
+2014,June,4 Western, Mount Alexander,MOUNT ALEXANDER,891,4816
+2014,June,4 Western, Moyne,MOYNE,626,3791
+2014,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,906,7693
+2014,June,4 Western, Pyrenees,PYRENEES,440,6244
+2014,June,4 Western, Queenscliffe,QUEENSCLIFFE,103,3468
+2014,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1081,6650
+2014,June,4 Western, Surf Coast,SURF COAST,1304,4516
+2014,June,4 Western, Swan Hill,SWAN HILL,1933,9231
+2014,June,4 Western, Warrnambool,WARRNAMBOOL,2645,7842
+2014,June,4 Western, West Wimmera,WEST WIMMERA,160,3962
+2014,June,4 Western, Yarriambiack,YARRIAMBIACK,294,4246
+2014,June,4 Western,Total,TOTAL,68264,7274
+2014,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,1135,
+2014,June,Justice Institutions and Immigration Facilities,Total,TOTAL,1135,
+2014,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,63,
+2014,June,Unincorporated Vic,Total,TOTAL,63,
+2013,June,1 North West Metro, Banyule,BANYULE,7517,6047
+2013,June,1 North West Metro, Brimbank,BRIMBANK,18872,9620
+2013,June,1 North West Metro, Darebin,DAREBIN,11129,7557
+2013,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6913,7751
+2013,June,1 North West Metro, Hume,HUME,15075,8154
+2013,June,1 North West Metro, Maribyrnong,MARIBYRNONG,8298,10401
+2013,June,1 North West Metro, Melbourne,MELBOURNE,34248,28850
+2013,June,1 North West Metro, Melton,MELTON,8371,6754
+2013,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,8049,6971
+2013,June,1 North West Metro, Moreland,MORELAND,11788,7355
+2013,June,1 North West Metro, Nillumbik,NILLUMBIK,1925,3047
+2013,June,1 North West Metro, Whittlesea,WHITTLESEA,11926,6652
+2013,June,1 North West Metro, Wyndham,WYNDHAM,12075,6348
+2013,June,1 North West Metro, Yarra,YARRA,10625,12655
+2013,June,1 North West Metro,Total,TOTAL,166811,8985
+2013,June,2 Eastern, Alpine,ALPINE,417,3395
+2013,June,2 Eastern, Bass Coast,BASS COAST,2229,7114
+2013,June,2 Eastern, Baw Baw,BAW BAW,3104,6803
+2013,June,2 Eastern, Benalla,BENALLA,1020,7350
+2013,June,2 Eastern, Boroondara,BOROONDARA,6778,3976
+2013,June,2 Eastern, East Gippsland,EAST GIPPSLAND,3817,8713
+2013,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,6060,9582
+2013,June,2 Eastern, Indigo,INDIGO,436,2794
+2013,June,2 Eastern, Knox,KNOX,8779,5615
+2013,June,2 Eastern, Latrobe,LATROBE,10268,13852
+2013,June,2 Eastern, Manningham,MANNINGHAM,3530,2983
+2013,June,2 Eastern, Mansfield,MANSFIELD,320,3867
+2013,June,2 Eastern, Maroondah,MAROONDAH,6320,5757
+2013,June,2 Eastern, Mitchell,MITCHELL,2506,6632
+2013,June,2 Eastern, Moira,MOIRA,1301,4501
+2013,June,2 Eastern, Monash,MONASH,8503,4640
+2013,June,2 Eastern, Murrindindi,MURRINDINDI,632,4660
+2013,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1373,4856
+2013,June,2 Eastern, Strathbogie,STRATHBOGIE,518,5250
+2013,June,2 Eastern, Towong,TOWONG,271,4546
+2013,June,2 Eastern, Wangaratta,WANGARATTA,2313,8365
+2013,June,2 Eastern, Wellington,WELLINGTON,3781,8850
+2013,June,2 Eastern, Whitehorse,WHITEHORSE,7256,4477
+2013,June,2 Eastern, Wodonga,WODONGA,2925,7784
+2013,June,2 Eastern, Yarra Ranges,YARRA RANGES,6290,4168
+2013,June,2 Eastern,Total,TOTAL,90747,5701
+2013,June,3 Southern Metro, Bayside,BAYSIDE,4167,4241
+2013,June,3 Southern Metro, Cardinia,CARDINIA,5318,6287
+2013,June,3 Southern Metro, Casey,CASEY,15468,5564
+2013,June,3 Southern Metro, Frankston,FRANKSTON,13610,10130
+2013,June,3 Southern Metro, Glen Eira,GLEN EIRA,5801,4107
+2013,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,15503,10440
+2013,June,3 Southern Metro, Kingston,KINGSTON,9056,5945
+2013,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,9068,5888
+2013,June,3 Southern Metro, Port Phillip,PORT PHILLIP,11417,11176
+2013,June,3 Southern Metro, Stonnington,STONNINGTON,8980,8677
+2013,June,3 Southern Metro,Total,TOTAL,98388,7043
+2013,June,4 Western, Ararat,ARARAT,1331,11584
+2013,June,4 Western, Ballarat,BALLARAT,9656,9819
+2013,June,4 Western, Buloke,BULOKE,280,4383
+2013,June,4 Western, Campaspe,CAMPASPE,2593,6968
+2013,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,1075,8389
+2013,June,4 Western, Colac-Otway,COLAC-OTWAY,1362,6475
+2013,June,4 Western, Corangamite,CORANGAMITE,636,3876
+2013,June,4 Western, Gannawarra,GANNAWARRA,561,5330
+2013,June,4 Western, Glenelg,GLENELG,1365,6895
+2013,June,4 Western, Golden Plains,GOLDEN PLAINS,498,2446
+2013,June,4 Western, Greater Bendigo,GREATER BENDIGO,8201,7740
+2013,June,4 Western, Greater Geelong,GREATER GEELONG,16339,7315
+2013,June,4 Western, Hepburn,HEPBURN,642,4274
+2013,June,4 Western, Hindmarsh,HINDMARSH,277,4733
+2013,June,4 Western, Horsham,HORSHAM,2652,13466
+2013,June,4 Western, Loddon,LODDON,412,5480
+2013,June,4 Western, Macedon Ranges,MACEDON RANGES,1704,3821
+2013,June,4 Western, Mildura,MILDURA,5501,10349
+2013,June,4 Western, Moorabool,MOORABOOL,1781,5857
+2013,June,4 Western, Mount Alexander,MOUNT ALEXANDER,900,4932
+2013,June,4 Western, Moyne,MOYNE,555,3378
+2013,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1974,16616
+2013,June,4 Western, Pyrenees,PYRENEES,365,5261
+2013,June,4 Western, Queenscliffe,QUEENSCLIFFE,93,3098
+2013,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,1026,6273
+2013,June,4 Western, Surf Coast,SURF COAST,1187,4205
+2013,June,4 Western, Swan Hill,SWAN HILL,1760,8380
+2013,June,4 Western, Warrnambool,WARRNAMBOOL,2264,6774
+2013,June,4 Western, West Wimmera,WEST WIMMERA,173,4195
+2013,June,4 Western, Yarriambiack,YARRIAMBIACK,372,5290
+2013,June,4 Western,Total,TOTAL,67535,7288
+2013,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,1249,
+2013,June,Justice Institutions and Immigration Facilities,Total,TOTAL,1249,
+2013,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,114,
+2013,June,Unincorporated Vic,Total,TOTAL,114,
+2012,June,1 North West Metro, Banyule,BANYULE,7280,5891
+2012,June,1 North West Metro, Brimbank,BRIMBANK,17348,8953
+2012,June,1 North West Metro, Darebin,DAREBIN,11836,8164
+2012,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,6425,7273
+2012,June,1 North West Metro, Hume,HUME,14806,8262
+2012,June,1 North West Metro, Maribyrnong,MARIBYRNONG,9146,11850
+2012,June,1 North West Metro, Melbourne,MELBOURNE,31624,29396
+2012,June,1 North West Metro, Melton,MELTON,8258,6979
+2012,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,7806,6867
+2012,June,1 North West Metro, Moreland,MORELAND,11677,7439
+2012,June,1 North West Metro, Nillumbik,NILLUMBIK,1840,2924
+2012,June,1 North West Metro, Whittlesea,WHITTLESEA,11673,6867
+2012,June,1 North West Metro, Wyndham,WYNDHAM,12488,6971
+2012,June,1 North West Metro, Yarra,YARRA,10945,13468
+2012,June,1 North West Metro,Total,TOTAL,163152,9079
+2012,June,2 Eastern, Alpine,ALPINE,414,3398
+2012,June,2 Eastern, Bass Coast,BASS COAST,2069,6715
+2012,June,2 Eastern, Baw Baw,BAW BAW,2524,5671
+2012,June,2 Eastern, Benalla,BENALLA,932,6730
+2012,June,2 Eastern, Boroondara,BOROONDARA,6437,3821
+2012,June,2 Eastern, East Gippsland,EAST GIPPSLAND,2930,6762
+2012,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,6268,10019
+2012,June,2 Eastern, Indigo,INDIGO,499,3229
+2012,June,2 Eastern, Knox,KNOX,8409,5411
+2012,June,2 Eastern, Latrobe,LATROBE,9094,12289
+2012,June,2 Eastern, Manningham,MANNINGHAM,4123,3511
+2012,June,2 Eastern, Mansfield,MANSFIELD,349,4310
+2012,June,2 Eastern, Maroondah,MAROONDAH,6564,6053
+2012,June,2 Eastern, Mitchell,MITCHELL,2391,6572
+2012,June,2 Eastern, Moira,MOIRA,1458,5085
+2012,June,2 Eastern, Monash,MONASH,8162,4527
+2012,June,2 Eastern, Murrindindi,MURRINDINDI,599,4452
+2012,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1086,3889
+2012,June,2 Eastern, Strathbogie,STRATHBOGIE,423,4341
+2012,June,2 Eastern, Towong,TOWONG,283,4764
+2012,June,2 Eastern, Wangaratta,WANGARATTA,2207,8044
+2012,June,2 Eastern, Wellington,WELLINGTON,3146,7412
+2012,June,2 Eastern, Whitehorse,WHITEHORSE,6292,3941
+2012,June,2 Eastern, Wodonga,WODONGA,3096,8423
+2012,June,2 Eastern, Yarra Ranges,YARRA RANGES,6346,4235
+2012,June,2 Eastern,Total,TOTAL,86101,5473
+2012,June,3 Southern Metro, Bayside,BAYSIDE,4346,4482
+2012,June,3 Southern Metro, Cardinia,CARDINIA,4666,5802
+2012,June,3 Southern Metro, Casey,CASEY,14392,5345
+2012,June,3 Southern Metro, Frankston,FRANKSTON,12329,9326
+2012,June,3 Southern Metro, Glen Eira,GLEN EIRA,5680,4083
+2012,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,14384,9912
+2012,June,3 Southern Metro, Kingston,KINGSTON,8986,5973
+2012,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,9039,5958
+2012,June,3 Southern Metro, Port Phillip,PORT PHILLIP,11306,11318
+2012,June,3 Southern Metro, Stonnington,STONNINGTON,8737,8616
+2012,June,3 Southern Metro,Total,TOTAL,93865,6869
+2012,June,4 Western, Ararat,ARARAT,1105,9693
+2012,June,4 Western, Ballarat,BALLARAT,9790,10121
+2012,June,4 Western, Buloke,BULOKE,297,4616
+2012,June,4 Western, Campaspe,CAMPASPE,2513,6784
+2012,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,863,6788
+2012,June,4 Western, Colac-Otway,COLAC-OTWAY,1420,6794
+2012,June,4 Western, Corangamite,CORANGAMITE,803,4876
+2012,June,4 Western, Gannawarra,GANNAWARRA,481,4582
+2012,June,4 Western, Glenelg,GLENELG,1290,6507
+2012,June,4 Western, Golden Plains,GOLDEN PLAINS,436,2224
+2012,June,4 Western, Greater Bendigo,GREATER BENDIGO,6762,6508
+2012,June,4 Western, Greater Geelong,GREATER GEELONG,15128,6903
+2012,June,4 Western, Hepburn,HEPBURN,691,4661
+2012,June,4 Western, Hindmarsh,HINDMARSH,253,4320
+2012,June,4 Western, Horsham,HORSHAM,2008,10241
+2012,June,4 Western, Loddon,LODDON,412,5472
+2012,June,4 Western, Macedon Ranges,MACEDON RANGES,1464,3343
+2012,June,4 Western, Mildura,MILDURA,5273,10049
+2012,June,4 Western, Moorabool,MOORABOOL,1442,4911
+2012,June,4 Western, Mount Alexander,MOUNT ALEXANDER,879,4869
+2012,June,4 Western, Moyne,MOYNE,628,3852
+2012,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,924,7719
+2012,June,4 Western, Pyrenees,PYRENEES,254,3703
+2012,June,4 Western, Queenscliffe,QUEENSCLIFFE,316,10337
+2012,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,977,5935
+2012,June,4 Western, Surf Coast,SURF COAST,1341,4871
+2012,June,4 Western, Swan Hill,SWAN HILL,1809,8626
+2012,June,4 Western, Warrnambool,WARRNAMBOOL,2337,7069
+2012,June,4 Western, West Wimmera,WEST WIMMERA,134,3180
+2012,June,4 Western, Yarriambiack,YARRIAMBIACK,394,5553
+2012,June,4 Western,Total,TOTAL,62424,6832
+2012,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,1004,
+2012,June,Justice Institutions and Immigration Facilities,Total,TOTAL,1004,
+2012,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,135,
+2012,June,Unincorporated Vic,Total,TOTAL,135,
+2011,June,1 North West Metro, Banyule,BANYULE,6571,5343
+2011,June,1 North West Metro, Brimbank,BRIMBANK,16565,8650
+2011,June,1 North West Metro, Darebin,DAREBIN,11022,7711
+2011,June,1 North West Metro, Hobsons Bay,HOBSONS BAY,5464,6252
+2011,June,1 North West Metro, Hume,HUME,13044,7484
+2011,June,1 North West Metro, Maribyrnong,MARIBYRNONG,8363,11128
+2011,June,1 North West Metro, Melbourne,MELBOURNE,29608,29537
+2011,June,1 North West Metro, Melton,MELTON,6576,5838
+2011,June,1 North West Metro, Moonee Valley,MOONEE VALLEY,7148,6372
+2011,June,1 North West Metro, Moreland,MORELAND,10426,6759
+2011,June,1 North West Metro, Nillumbik,NILLUMBIK,1885,3006
+2011,June,1 North West Metro, Whittlesea,WHITTLESEA,9684,6022
+2011,June,1 North West Metro, Wyndham,WYNDHAM,10586,6350
+2011,June,1 North West Metro, Yarra,YARRA,10848,13749
+2011,June,1 North West Metro,Total,TOTAL,147790,8481
+2011,June,2 Eastern, Alpine,ALPINE,363,3008
+2011,June,2 Eastern, Bass Coast,BASS COAST,2032,6721
+2011,June,2 Eastern, Baw Baw,BAW BAW,1948,4490
+2011,June,2 Eastern, Benalla,BENALLA,903,6535
+2011,June,2 Eastern, Boroondara,BOROONDARA,5797,3470
+2011,June,2 Eastern, East Gippsland,EAST GIPPSLAND,3178,7421
+2011,June,2 Eastern, Greater Shepparton,GREATER SHEPPARTON,5638,9131
+2011,June,2 Eastern, Indigo,INDIGO,448,2925
+2011,June,2 Eastern, Knox,KNOX,7821,5058
+2011,June,2 Eastern, Latrobe,LATROBE,8162,11061
+2011,June,2 Eastern, Manningham,MANNINGHAM,3545,3036
+2011,June,2 Eastern, Mansfield,MANSFIELD,359,4520
+2011,June,2 Eastern, Maroondah,MAROONDAH,5983,5575
+2011,June,2 Eastern, Mitchell,MITCHELL,2846,8107
+2011,June,2 Eastern, Moira,MOIRA,1401,4932
+2011,June,2 Eastern, Monash,MONASH,7885,4446
+2011,June,2 Eastern, Murrindindi,MURRINDINDI,580,4349
+2011,June,2 Eastern, South Gippsland,SOUTH GIPPSLAND,1029,3740
+2011,June,2 Eastern, Strathbogie,STRATHBOGIE,438,4563
+2011,June,2 Eastern, Towong,TOWONG,214,3616
+2011,June,2 Eastern, Wangaratta,WANGARATTA,2082,7651
+2011,June,2 Eastern, Wellington,WELLINGTON,2725,6478
+2011,June,2 Eastern, Whitehorse,WHITEHORSE,6284,3989
+2011,June,2 Eastern, Wodonga,WODONGA,2849,7908
+2011,June,2 Eastern, Yarra Ranges,YARRA RANGES,6194,4160
+2011,June,2 Eastern,Total,TOTAL,80704,5187
+2011,June,3 Southern Metro, Bayside,BAYSIDE,3295,3428
+2011,June,3 Southern Metro, Cardinia,CARDINIA,4067,5363
+2011,June,3 Southern Metro, Casey,CASEY,14032,5370
+2011,June,3 Southern Metro, Frankston,FRANKSTON,11822,9069
+2011,June,3 Southern Metro, Glen Eira,GLEN EIRA,5244,3823
+2011,June,3 Southern Metro, Greater Dandenong,GREATER DANDENONG,13468,9473
+2011,June,3 Southern Metro, Kingston,KINGSTON,9038,6094
+2011,June,3 Southern Metro, Mornington Peninsula,MORNINGTON PENINSULA,8367,5605
+2011,June,3 Southern Metro, Port Phillip,PORT PHILLIP,9862,10138
+2011,June,3 Southern Metro, Stonnington,STONNINGTON,8212,8307
+2011,June,3 Southern Metro,Total,TOTAL,87407,6539
+2011,June,4 Western, Ararat,ARARAT,922,8141
+2011,June,4 Western, Ballarat,BALLARAT,8844,9291
+2011,June,4 Western, Buloke,BULOKE,349,5398
+2011,June,4 Western, Campaspe,CAMPASPE,2756,7478
+2011,June,4 Western, Central Goldfields,CENTRAL GOLDFIELDS,967,7687
+2011,June,4 Western, Colac-Otway,COLAC-OTWAY,1305,6274
+2011,June,4 Western, Corangamite,CORANGAMITE,671,4060
+2011,June,4 Western, Gannawarra,GANNAWARRA,666,6371
+2011,June,4 Western, Glenelg,GLENELG,1547,7794
+2011,June,4 Western, Golden Plains,GOLDEN PLAINS,450,2374
+2011,June,4 Western, Greater Bendigo,GREATER BENDIGO,5676,5565
+2011,June,4 Western, Greater Geelong,GREATER GEELONG,14667,6795
+2011,June,4 Western, Hepburn,HEPBURN,687,4696
+2011,June,4 Western, Hindmarsh,HINDMARSH,175,2988
+2011,June,4 Western, Horsham,HORSHAM,1826,9353
+2011,June,4 Western, Loddon,LODDON,394,5221
+2011,June,4 Western, Macedon Ranges,MACEDON RANGES,1581,3687
+2011,June,4 Western, Mildura,MILDURA,5687,10974
+2011,June,4 Western, Moorabool,MOORABOOL,1293,4510
+2011,June,4 Western, Mount Alexander,MOUNT ALEXANDER,852,4767
+2011,June,4 Western, Moyne,MOYNE,536,3315
+2011,June,4 Western, Northern Grampians,NORTHERN GRAMPIANS,1037,8603
+2011,June,4 Western, Pyrenees,PYRENEES,262,3876
+2011,June,4 Western, Queenscliffe,QUEENSCLIFFE,133,4345
+2011,June,4 Western, Southern Grampians,SOUTHERN GRAMPIANS,989,5968
+2011,June,4 Western, Surf Coast,SURF COAST,1109,4159
+2011,June,4 Western, Swan Hill,SWAN HILL,1892,9068
+2011,June,4 Western, Warrnambool,WARRNAMBOOL,2991,9156
+2011,June,4 Western, West Wimmera,WEST WIMMERA,104,2426
+2011,June,4 Western, Yarriambiack,YARRIAMBIACK,293,4079
+2011,June,4 Western,Total,TOTAL,60661,6726
+2011,June,Justice Institutions and Immigration Facilities, Justice Institutions and Immigration Facilities,JUSTICE INSTITUTIONS AND IMMIGRATION FACILITIES,917,
+2011,June,Justice Institutions and Immigration Facilities,Total,TOTAL,917,
+2011,June,Unincorporated Vic, Unincorporated Vic,UNINCORPORATED VIC,183,
+2011,June,Unincorporated Vic,Total,TOTAL,183,
