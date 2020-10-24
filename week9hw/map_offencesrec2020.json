@@ -4,7 +4,7 @@
   "width": 800,
   "height": 500,
   "data": {
-    "url": "https://raw.githubusercontent.com/bsherriew/FIT3179/master/week9hw/VIC_LGA_POLYGON_SHP_GDA2020.topojson",
+    "url": "https://raw.githubusercontent.com/bsherriew/FIT3179/master/week9hw/metromelbourne_lga_gda2020.topojson",
     "format": {"type": "topojson", "feature": "VIC_LGA_POLYGON_SHP_GDA2020"}
   },
   "transform": [
@@ -25,7 +25,7 @@
     "color": {
       "field": "Rate per 100,000 population",
       "type": "quantitative",
-      "scale": {"type": "linear", "domain": [0, 20000], "scheme": "bluepurple"},
+      "scale": {"type": "linear", "domain": [0, 20000], "scheme": "lightorange"},
       "legend": {
         "orient": "top-right",
         "direction": "horizontal",
