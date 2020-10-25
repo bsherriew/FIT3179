@@ -34,7 +34,7 @@
     },
     "tooltip": [
       {
-        "field": "LGA",
+        "field": "properties.ABB_NAME",
         "type": "nominal",
         "title": "Local Government Area"
       },
